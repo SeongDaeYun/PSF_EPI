@@ -7,5 +7,8 @@ This script simulates point-spread-function (PSF) of echo-planar-imaging (EPI) a
 
 
 ### How to use
-
+```
+Function: [FWHM, h0] =
+          PSF_EPI_PE( sz_y, T2, TE, espc, pi_f, pf_f, is_T2d, is_PF1 )
+```
 ### Example
