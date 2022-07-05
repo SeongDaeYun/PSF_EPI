@@ -3,6 +3,9 @@ This script simulates point-spread-function (PSF) of echo-planar-imaging (EPI) a
 
 ## Contents
 [1. How to use](#How-to-use)
-2. Example
+
+
 
 ### How to use
+
+### Example
