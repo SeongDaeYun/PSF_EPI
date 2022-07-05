@@ -1,6 +1,7 @@
 # PSF_EPI
 This script simulates point-spread-function (PSF) of echo-planar-imaging (EPI) along one phase encoding direction and calculates the corresponding full-width-half-maximum (FWHM). 
 
+
 ## Contents
 [1. How to use](#How-to-use) <br>
 [2. Example](#Example)
@@ -34,3 +35,13 @@ Function: [FWHM, h0] =
 
 
 ### Example
+```
+FWHM = PSF_EPI_PE( 192, 33.2, 35, 1.2, 3, 6/8 ) ;
+FWHM =
+
+    1.7421
+```
+
+![Figure](https://github.com/SeongDaeYun/Test/blob/main/Figures/Fig1.jpg)
+
+
