@@ -14,8 +14,6 @@ Function: [FWHM, h0] =
           PSF_EPI_PE( sz_y, T2, TE, espc, pi_f, pf_f, is_T2d, is_PF1 )
 ```
 
-`Input : ( sz_y, T2, TE, espc, pi_f, pf_f, is_T2d, is_PF1 )`
-
 | Input | Default value | Description |
 | ------ | ------ | ------ |
 | sz_y   | N/A | Phase encoding size |
@@ -27,7 +25,6 @@ Function: [FWHM, h0] =
 | is_T2d | true | Option to enable/disable T2 decay  |
 | is_PF1 | true | Option to simulate PF trajectory, i.e. true: one-sided PF, false: two-sided PF |
 
-`Output : [ FWHM, h0 ]`
 
 | Output | Description |
 | ------ | ------ |
