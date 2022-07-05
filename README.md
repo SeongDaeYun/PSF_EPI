@@ -42,6 +42,6 @@ FWHM =
     1.7421
 ```
 
-![Figure](https://github.com/SeongDaeYun/Test/blob/main/Figures/Fig1.jpg)
+![Figure](https://github.com/SeongDaeYun/PSF_EPI/blob/main/Figure/Fig1.jpg)
 
 
