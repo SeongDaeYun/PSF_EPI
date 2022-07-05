@@ -22,7 +22,7 @@ Function: [FWHM, h0] =
 | TE     | N/A | Echo time (ms) |
 | espc   | N/A | Echo spacing time (ms) |
 | pi_f   | N/A | Parallel imaging acceleration factor, e.g.) 1, 2, 3, ... |
-| pf_f   | N/A | Partial Fourier imaging factor ( >= 0.5 ), e.g.) 5/8, 6/8, ... |
+| pf_f   | N/A | Partial Fourier (PF) imaging factor ( >= 0.5 ), e.g.) 5/8, 6/8, ... |
 | is_T2d | true | Option to enable/disable T2 decay  |
 | is_PF1 | true | Option to simulate PF trajectory, i.e. true: one-sided PF, false: two-sided PF |
 
@@ -41,7 +41,6 @@ FWHM =
 
     1.7421
 ```
-
 
 ![Figure](https://github.com/SeongDaeYun/PSF_EPI/blob/main/Figure/Fig1.jpg)
 
